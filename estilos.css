@@ -7,3 +7,6 @@ body
 #container{
     color: palevioletred;
 }
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
