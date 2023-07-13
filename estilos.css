@@ -9,11 +9,12 @@ body
 }
 p{
     font-family: 'Courier New', Courier, monospace;
-
-#cabecera{
-    color:brown
 }
 
 h1{
     font-size: 72;
+}
+
+h2{
+    font-size: 36;
 }
