@@ -15,3 +15,5 @@ Otro texto que habla de sus hazañas son las aventuras de freddy y eric en galia
 cositas extras desde la misma pc pero con otra carpeta simulando que es otra pc (pero la misma cuenta)
 
 otras palabras agregadas desde otra carpeta para asi poder repasar unos conceptos
+
+otra practica para el pull request de github
