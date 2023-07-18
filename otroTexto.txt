@@ -17,3 +17,6 @@ cositas extras desde la misma pc pero con otra carpeta simulando que es otra pc 
 otras palabras agregadas desde otra carpeta para asi poder repasar unos conceptos
 
 otra practica para el pull request de github
+
+Master 1
+
