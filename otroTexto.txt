@@ -21,3 +21,5 @@ otra practica para el pull request de github
 Master 1
 
 Master 2
+
+bloquecito para verificar que la notebook funciona :D 
